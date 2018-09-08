@@ -6,10 +6,10 @@ public class Rectangulo{
     double area;
           Scanner datos =new Scanner(System.in);
           System.out.println("Ingrese base del rectangulo");
-          double b=datos.nextDouble();
+          double base=datos.nextDouble();
           System.out.println("Ingrese altura del rectangulo");
-          double a=datos.nextDouble();
-          area=b*a;
+          double altura=datos.nextDouble();
+          area=base*altura;
           System.out.println("El area del rectangulo es: " + area);
        }
   }
