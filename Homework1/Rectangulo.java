@@ -5,6 +5,7 @@ public class Rectangulo{
     //leer de consola
     double area;
           Scanner datos =new Scanner(System.in);
+          System.out.println("*****Calcular Area de Rectangulo*****");
           System.out.println("Ingrese base del rectangulo");
           double base=datos.nextDouble();
           System.out.println("Ingrese altura del rectangulo");
