@@ -40,7 +40,5 @@ public class ComputeBMI{
 
     System.out.println("Your bmi is " + bmi);
 
-
-
   }
 }
