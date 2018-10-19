@@ -31,7 +31,7 @@ public class ComputeChange{
 
     System.out.println("Your amount" + amount + "consist of \n" +
     "\t" + numberOfDollars + " dollars " +
-    "\t" + numberOfQuarters + "quarters" +
+    "\t" + numberOfQuarters "quarters" +
     "\t" + numberOfDimes + "dimes" +
     "\t" + numberOfNickels + "nickels" +
     "\t" + numberOfPennies + "pennies");
